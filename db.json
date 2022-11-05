@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "João Hugo Pereira da Silva",
+      "email": "hugo@email.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sara Borges",
+      "email": "sara@email.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Maria",
+      "password": "123",
+      "email": "m@email.com",
+      "id": 3
+    },
+    {
+      "name": "andrea",
+      "password": "123",
+      "email": "and@email.com",
+      "id": 4
+    }
+  ]
+}
