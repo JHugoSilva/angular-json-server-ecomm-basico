@@ -49,3 +49,14 @@ body {
     background-color: black;
     border: 5px;
 }
+
+.invalid-input {
+    color: red;
+    font-size: 12px;
+    margin-top: -20px;
+    font-weight: 600;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}
