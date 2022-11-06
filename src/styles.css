@@ -4,32 +4,48 @@ body {
 }
 
 .container {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .common-form {
-    text-align: center;
     display: flex;
-    margin: auto;
+    text-align: center;
     flex-direction: column;
     width: 300px;
+    margin: auto;
 }
 
 .form-input {
     height: 35px;
     margin-bottom: 20px;
-    padding-left: 10px;
     border: 1px solid blueviolet;
+    padding-left: 10px;
     color: blueviolet;
 }
 
 .form-button {
     height: 35px;
     border: 1px solid blueviolet;
+    color: blueviolet;
     cursor: pointer;
 }
 
 .error-p {
     color: red;
+}
+
+.message-p {
+    color: green;
+    text-align: center;
+}
+
+.carousel-caption {
+    background-color: #0000007d;
+    border-radius: 10px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: black;
+    border: 5px;
 }

@@ -23,6 +23,145 @@
       "password": "123",
       "email": "and@email.com",
       "id": 4
+    },
+    {
+      "name": "vend",
+      "password": "123",
+      "email": "vend@email.com",
+      "id": 5
+    },
+    {
+      "name": "Sara",
+      "password": "123",
+      "email": "s@email.com",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "hugo",
+      "email": "hugo@email.com",
+      "password": "2.6SmLWLvtzH346",
+      "id": 1
+    },
+    {
+      "name": "sara",
+      "email": "sar@email.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "maria",
+      "email": "m@email.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "joao",
+      "email": "j@email.com",
+      "password": "123",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Notebook Inspiron 13 5000",
+      "price": 6.598,
+      "color": "Prata",
+      "category": "Informática",
+      "description": "Memória de 16GB LPDDR5 (soldada) 4800MHz; Sem opção de expansibilidade\n\n",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/13-5320/media-gallery/notebook-inspiron-13-5320-gy-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=641&qlt=100,1&resMode=sharp2&size=641,402&chrss=full",
+      "id": 1
+    },
+    {
+      "name": "Motorola",
+      "price": 999,
+      "color": "gray",
+      "category": "TELEFONE CELULAR",
+      "description": "MOTOROLA E20 XT2155-1 CINZA",
+      "image": "https://lojaqueroquero.vtexassets.com/arquivos/ids/2414208/ns_177000_1.jpg?v=1753793834",
+      "id": 2
+    },
+    {
+      "name": "Monitor Gamer curvo 27” Dell S2721HGF",
+      "price": 3.158,
+      "color": "black",
+      "category": "Informática",
+      "description": "Portas e slots:\n1. Conector de alimentação | 2. Slot de trava de segurança | 3. Recurso de trava do suporte | 4. Porta HDMI (HDMI 1.4) | 5. Porta HDMI (HDMI 1.4) | 6. DisplayPort (1.2) | 7. Porta de saída para fones de ouvido*\n\nCabos incluídos:\nCabo HDMI | Cabo de alimentação\n\nInterface de montagem VESA*: 100 mm x 100 mm",
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/peripherals/output-devices/dell/monitors/s2721hgf/general/update-image-screenfill-monitor-s2721hgf-v1-2000x1500.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=536&qlt=100,1&resMode=sharp2&size=536,402&chrss=full",
+      "id": 3
+    },
+    {
+      "name": "Console Xbox Series S",
+      "price": 1.94655,
+      "color": "silver",
+      "category": "Gamer",
+      "description": "Uso exclusivo para jogos digitais; o console não reproduz discos físicos\n8K: Requer conteúdo e tela compatíveis\n120 FPS: Requer conteúdo e tela compatíveis\nDesempenho e velocidade de última geração em um formato compacto e totalmente digital.\nReprodução de streaming em 4K e Upscaling 4K para jogos\nAlterne entre os jogos com facilidade, retome com rapidez entre vários títulos e volte diretamente de onde parou\nDolby: Dolby Vision HDR no Xbox requer uma tela compatível\nSmart Delivery: Somente em jogos compatíveis\nXbox Game Pass: Assinatura vendida separadamente. O catálogo de jogos varia ao longo do tempo e de acordo com a região\nAplicativo Xbox Family Settings: A conta das crianças deve estar logada na conta da Microsoft com o perfil Xbox usado pela família para as configurações aplicarem. O aplicativo Xbox Family Settings exige iOS 10 ou superior ou Android 5 ou superior",
+      "image": "https://m.media-amazon.com/images/I/81Z1xBs6GoL._AC_SX679_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Cadeira Gamer Rosa",
+      "price": 799,
+      "color": "pink",
+      "category": "Gamer",
+      "description": "Cadeira de escritório Mymax MX5 gamer ergonômica rosa e branca com estofado de couro sintético\n",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_915431-MLA47151612237_082021-O.webp",
+      "id": 5
+    },
+    {
+      "name": "França Girl",
+      "price": 5000,
+      "color": "Multiplas",
+      "category": "Viagem",
+      "description": "Teste Crud",
+      "image": "https://loremflickr.com/320/240/paris,girl/all",
+      "id": 6
+    },
+    {
+      "name": "França Girl",
+      "price": 5000,
+      "color": "Multiplas",
+      "category": "Viagem",
+      "description": "Teste Crud",
+      "image": "https://loremflickr.com/320/240/paris,girl/all",
+      "id": 7
+    },
+    {
+      "name": "França Girl2",
+      "price": 5000,
+      "color": "Multiplas",
+      "category": "Viagem",
+      "description": "Teste Crud",
+      "image": "https://loremflickr.com/320/240/paris,girl/all",
+      "id": 8
+    },
+    {
+      "name": "França Girl3",
+      "price": 5000,
+      "color": "Multiplas",
+      "category": "Viagem",
+      "description": "Teste Crud",
+      "image": "https://loremflickr.com/320/240/paris,girl/all",
+      "id": 9
+    },
+    {
+      "name": "França Girl4",
+      "price": 5000,
+      "color": "Multiplas",
+      "category": "Viagem",
+      "description": "Teste Crud",
+      "image": "https://loremflickr.com/320/240/paris,girl/all",
+      "id": 10
+    },
+    {
+      "name": "França Girl4",
+      "price": 5000,
+      "color": "Multiplas",
+      "category": "Viagem",
+      "description": "Teste Crud",
+      "image": "https://loremflickr.com/320/240/paris,girl/all",
+      "id": 11
     }
   ]
 }
